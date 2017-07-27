@@ -1,0 +1,27 @@
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.BLL.dll
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.BLL.pdb
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\obj\Debug\EsnaflarDB.BLL.csprojResolveAssemblyReference.cache
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\obj\Debug\EsnaflarDB.BLL.dll
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\obj\Debug\EsnaflarDB.BLL.pdb
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.BLL.dll
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.BLL.pdb
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.DAL.dll
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.Entity.dll
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.DAL.pdb
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.Entity.pdb
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\obj\Debug\EsnaflarDB.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\obj\Debug\EsnaflarDB.BLL.dll
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\obj\Debug\EsnaflarDB.BLL.pdb
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.DTO.dll
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.DTO.pdb
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.BLL.dll
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.BLL.pdb
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.DAL.dll
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.DTO.dll
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.Entity.dll
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.DAL.pdb
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.DTO.pdb
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\bin\Debug\EsnaflarDB.Entity.pdb
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\obj\Debug\EsnaflarDB.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\obj\Debug\EsnaflarDB.BLL.dll
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.BLL\obj\Debug\EsnaflarDB.BLL.pdb

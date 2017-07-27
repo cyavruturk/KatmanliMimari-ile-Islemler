@@ -1,0 +1,9 @@
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.DTO\bin\Debug\EsnaflarDB.DTO.dll
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.DTO\bin\Debug\EsnaflarDB.DTO.pdb
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.DTO\obj\Debug\EsnaflarDB.DTO.dll
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.DTO\obj\Debug\EsnaflarDB.DTO.pdb
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.DTO\bin\Debug\EsnaflarDB.DTO.dll
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.DTO\bin\Debug\EsnaflarDB.DTO.pdb
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.DTO\obj\Debug\EsnaflarDB.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.DTO\obj\Debug\EsnaflarDB.DTO.dll
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.DTO\obj\Debug\EsnaflarDB.DTO.pdb

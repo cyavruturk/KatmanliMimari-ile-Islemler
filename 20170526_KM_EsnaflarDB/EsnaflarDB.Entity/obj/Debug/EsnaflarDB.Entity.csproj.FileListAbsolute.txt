@@ -1,0 +1,15 @@
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\bin\Debug\EsnaflarDB.Entity.dll
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\bin\Debug\EsnaflarDB.Entity.pdb
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\obj\Debug\EsnaflarDB.Entity.csprojResolveAssemblyReference.cache
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\obj\Debug\EsnaflarDB.Entity.dll
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\obj\Debug\EsnaflarDB.Entity.pdb
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\bin\Debug\EsnaflarDB.Entity.dll
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\bin\Debug\EsnaflarDB.Entity.pdb
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\obj\Debug\EsnaflarDB.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\obj\Debug\EsnaflarDB.Entity.dll
+C:\Users\Crnyvrtrk\Documents\BilgeAdamDersler\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\obj\Debug\EsnaflarDB.Entity.pdb
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\bin\Debug\EsnaflarDB.Entity.dll
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\bin\Debug\EsnaflarDB.Entity.pdb
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\obj\Debug\EsnaflarDB.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\obj\Debug\EsnaflarDB.Entity.dll
+C:\Users\Crnyvrtrk\Downloads\20170526_KM_EsnaflarDB\20170526_KM_EsnaflarDB\EsnaflarDB.Entity\obj\Debug\EsnaflarDB.Entity.pdb
