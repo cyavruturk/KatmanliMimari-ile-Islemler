@@ -1,1 +1,1 @@
-# KatmanliMimari-ile-Islemler
+# KatmanliMimari-ile-Islemler -MVC
